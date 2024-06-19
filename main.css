@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(169, 230, 230);
+}
+
+button {
+    width: 100px;
+    height: 35px;
+    border-radius: 7px;
+}
+
+#aceptar{
+    background-color: chartreuse;
+}
+
+.eliminar{
+    background-color: red;
+}
+
+#container{
+    margin: 5%;
+    background-color: rgb(230, 240, 237);
+
+}
+
+/* img {
+    width: 100px;
+} */
